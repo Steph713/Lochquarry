@@ -1,0 +1,39 @@
+*
+{
+    box-sizing: border-box;
+}
+nav
+{
+width:20%;
+height: 135%;
+float: left;
+padding-left: 40;
+padding-right: 20;
+padding-top: 20;
+background-color: turquoise;
+color: navy;
+font-size: large; 
+}
+main
+{
+width: 70%;
+height: auto;
+float: left;
+padding-left: 70%;
+
+}
+a
+{
+    color:darkgreen;
+    font-size: large;
+}
+a:hover
+{
+background-color:lightblue;
+}
+b
+{
+    color:darkgreen;
+    font-size: x-large;
+}
+
